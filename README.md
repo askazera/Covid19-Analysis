@@ -1,7 +1,6 @@
 # Covid-19 World Data Analisys
 <p align="center"><img src="https://media.licdn.com/dms/image/D4D22AQH-sU-KpPr0kA/feedshare-shrink_1280/0/1694809098547?e=1697673600&v=beta&t=bOKyRbJEQvqmA-KiNEBM1_XQm_TbTqqhk1fW-HuxWck" width="700" height="400"/> </p>
 
-[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiM2ZlZGRlZDItZjhiNi00MjQxLTljOGMtNDA3OTNmMGVkMjRjIiwidCI6IjczY2M1ZDNlLWY3MmEtNGM0NS1iYjFhLTZhOWJhNjFjYTZkYiJ9)
 
 
 This is a project carried out in order to understand the general panorama of cases and deaths from covid-19 in the world. Furthermore, with this data analysis study it was possible to measure the impact of the vaccine on the world, in addition to its importance in preventing deaths.
